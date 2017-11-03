@@ -5,3 +5,5 @@ The pig was git-ting fat. He was eating a lot of pig pellets. Why was it doing s
 He continued on his adventure! Next, he came across a giraffe.
 
 The giraffe was eating leaves. He was also git-ting fat! Now we will have a fat pig and a fat giraffe.
+
+Finally, Will went home and fell asleep.
